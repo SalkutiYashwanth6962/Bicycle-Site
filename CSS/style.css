@@ -1,0 +1,112 @@
+.nav-links ul{
+  margin-left: 500px;
+  display:inline;
+
+}
+.nav-links ul li{
+  list style: none;
+
+  display: inline-block;
+  padding: 50px;
+}
+ body{
+background-color: #caf7e3;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin:0;
+  text-align: center;
+  font-weight: bold;
+}
+img{width: 100%;
+  height: 100%;
+}
+h1{
+  font-family: cursive;
+  font-size: 50px;
+  margin-top: 50px;
+}
+h2{
+  color: #132c33;
+  font-weight: bold;
+}
+h3{
+  color:#23049d;
+  font-weight: bold;
+  line-height: 2;
+}
+.hero1 img{
+  width:300px;
+}
+.atlas2 img{
+    width:300px;
+}
+.avon3 img{
+    width:300px;
+}
+.hercules4 img{
+    width:300px;
+}
+.ladybird5 img{
+    width:300px;
+}
+.nav-bar{
+
+    background-image:url(../images/photo1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    height: 600px;
+}
+p{
+  width:80%;
+  margin:auto;
+  line-height: 2;
+  font-weight: bolder;
+  font-size: 20px;
+}
+hr{
+  border:dotted #EAF6F6 6PX;
+  border-bottom: none;
+}
+.contact-me{
+  width:40%;
+  margin: 10px auto 30px;
+}
+.btn {
+  background: #249ef0;
+  background-image: -webkit-linear-gradient(top, #249ef0, #a52bb8);
+  background-image: -moz-linear-gradient(top, #249ef0, #a52bb8);
+  background-image: -ms-linear-gradient(top, #249ef0, #a52bb8);
+  background-image: -o-linear-gradient(top, #249ef0, #a52bb8);
+  background-image: linear-gradient(to bottom, #249ef0, #a52bb8);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.about{
+  width:10%;
+}
+.bottom-container{
+  background-color: #7eca9c;
+  margin-top: auto;
+}
+
+  .services{
+    display: inline-block;
+}
